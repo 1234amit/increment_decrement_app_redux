@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.quantity{
+  margin-top: 30px;
+}
+
+.quantity__minus span{
+  font-size: 60px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.quantity__plus span{
+  font-size: 60px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.quantity__input{
+  text-align: center;
+  font-weight: bold;
+  border: 1px solid #ddd;
+  padding: 15px;
+  font-size: 30px;
+}
